@@ -1,4 +1,3 @@
-/userconfig # cat authority.txt
 cookie 0
 [permitlist]
 sendcmd
